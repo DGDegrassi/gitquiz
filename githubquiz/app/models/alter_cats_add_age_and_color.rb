@@ -1,0 +1,2 @@
+class AlterCatsAddAgeAndColor < ApplicationRecord
+end
